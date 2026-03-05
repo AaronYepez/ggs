@@ -1,6 +1,6 @@
 import flet as ft
 def main(page: ft.Page):
-    page.title = "Hello, World!"
+    page.title = "Contador de Flet :>"
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
 
     txt_numero = ft.TextField(
